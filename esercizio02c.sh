@@ -20,5 +20,7 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
-
+cd ambiente/sandbox
+mkdir -p ambiente/sandbox/negozio/abbigliamento/{uomo,donna} ambiente/sandbox/negozio/elettronica/{uomo,donna}
+cd ../.. 
+rm -rf ambiente/sandbox/negozio
