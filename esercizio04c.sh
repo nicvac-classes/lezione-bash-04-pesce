@@ -13,3 +13,8 @@
 #
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
+
+
+cp ambiete/documenti/lettere/*txt
+mv ambiente/documenti/report/2023/vendite_q2.txt ambiente/archivio/report_vendite_q2_2023.txt
+ls -l
