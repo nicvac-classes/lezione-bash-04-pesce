@@ -14,5 +14,6 @@
 # Scrivi i comandi qui sotto:
 # ------------------------------------------------------------
 
-
-
+mkdir  mio_script.sh
+echo 'echo "Il mio script funziona!"' > mio_script.sh
+ls -l
